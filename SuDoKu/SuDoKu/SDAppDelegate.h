@@ -6,6 +6,14 @@
 //  Copyright (c) 2013年 com.ysy.www. All rights reserved.
 //
 
+/**
+ *  change code
+ *
+ *  @param strong    company mac
+ *  @param nonatomic shengyang yu
+ *
+ *  @return yes
+ */
 #import <UIKit/UIKit.h>
 
 @interface SDAppDelegate : UIResponder <UIApplicationDelegate>
