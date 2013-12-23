@@ -12,7 +12,7 @@
  *  @param strong    company mac
  *  @param nonatomic shengyang yu
  *
- *  @return yes
+ *  @return yes 2
  */
 #import <UIKit/UIKit.h>
 
